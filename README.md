@@ -10,3 +10,4 @@ There are following types of classes in the data: fish, jellyfish, penguins, sha
 ### Prediction after object detection model is trained:
 ![Identity](https://github.com/prajakta0111/Aquarium_Object_Detection/blob/main/images/after.JPG)
 
+Using streamlit, I have created an app to test how well the model performs. The model can be tested by uploading an image to the app UI and the result will appear on the screen.
